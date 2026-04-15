@@ -1,4 +1,4 @@
-# Configuración de Límites de Conexión
+# Configuración de Límites de Conexiónx
 
 HTTPAceProxy permite configurar límites de conexión para controlar cuántos clientes pueden conectarse simultáneamente y cuántos canales diferentes pueden transmitirse al mismo tiempo.
 
